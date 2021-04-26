@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2021-04-26 11:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-04-16 09:35:10 +0000"
@@ -629,6 +635,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "dryland": "2021-04-26 11:31:32 +0000",
+      "dry_boneyard": "2021-04-26 11:55:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-04-16 09:06:25 +0000"
@@ -886,6 +899,7 @@
       "minecraft:pillager": "2021-04-16 09:56:29 +0000",
       "minecraft:skeleton": "2021-04-15 15:29:47 +0000",
       "minecraft:spider": "2021-04-16 09:19:26 +0000",
+      "minecraft:cave_spider": "2021-04-26 11:53:51 +0000",
       "minecraft:zombie": "2021-04-15 10:14:47 +0000"
     },
     "done": false
@@ -923,6 +937,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2021-04-14 16:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2021-04-26 11:56:13 +0000"
     },
     "done": true
   },
@@ -1391,6 +1411,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2021-04-14 16:17:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "dryland": "2021-04-26 11:31:32 +0000"
     },
     "done": true
   },
