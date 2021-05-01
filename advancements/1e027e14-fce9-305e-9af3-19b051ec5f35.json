@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-05-01 16:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-04-14 15:48:32 +0000"
@@ -697,6 +703,7 @@
       "minecraft:spider": "2021-04-15 15:15:37 +0000",
       "minecraft:creeper": "2021-04-16 12:09:10 +0000",
       "minecraft:slime": "2021-04-30 15:09:48 +0000",
+      "minecraft:phantom": "2021-05-01 16:30:51 +0000",
       "minecraft:witch": "2021-04-29 08:51:33 +0000",
       "minecraft:cave_spider": "2021-04-26 10:23:12 +0000",
       "minecraft:enderman": "2021-04-22 15:03:21 +0000",
