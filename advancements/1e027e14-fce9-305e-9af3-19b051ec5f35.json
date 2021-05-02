@@ -879,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2021-05-02 17:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2021-04-16 11:14:54 +0000"
@@ -924,6 +930,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-02 14:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-05-02 17:04:59 +0000"
     },
     "done": true
   },
@@ -1606,6 +1618,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2021-04-22 15:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-05-02 17:47:37 +0000"
     },
     "done": true
   },
@@ -2387,6 +2405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-05-02 17:47:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mud": {
     "criteria": {
       "has_item": "2021-04-30 17:03:41 +0000"
@@ -2840,6 +2864,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2021-04-23 16:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2021-05-02 17:47:35 +0000"
     },
     "done": true
   },
