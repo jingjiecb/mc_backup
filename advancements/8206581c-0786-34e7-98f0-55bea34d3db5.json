@@ -489,6 +489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-05-03 11:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-02 14:16:15 +0000"
@@ -523,6 +529,7 @@
     "criteria": {
       "minecraft:pillager": "2021-05-01 09:50:28 +0000",
       "minecraft:skeleton": "2021-04-30 13:30:21 +0000",
+      "minecraft:hoglin": "2021-05-03 11:40:29 +0000",
       "minecraft:spider": "2021-04-30 13:29:48 +0000",
       "minecraft:creeper": "2021-04-30 12:50:18 +0000",
       "minecraft:slime": "2021-05-02 06:45:23 +0000",
@@ -672,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-05-03 11:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-04-30 12:41:12 +0000"
@@ -681,6 +694,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-01 03:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-05-03 11:40:30 +0000"
     },
     "done": true
   },
@@ -909,6 +928,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2021-04-30 12:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-05-03 11:40:30 +0000"
     },
     "done": true
   },
@@ -1151,7 +1176,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2021-05-01 11:34:16 +0000"
+      "minecraft:soul_sand_valley": "2021-05-01 11:34:16 +0000",
+      "minecraft:basalt_deltas": "2021-05-03 11:54:25 +0000"
     },
     "done": false
   },
@@ -2107,6 +2133,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2021-05-02 17:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-05-03 11:54:07 +0000"
     },
     "done": true
   },
