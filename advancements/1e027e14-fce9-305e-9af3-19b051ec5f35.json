@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-05-03 13:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-04-14 15:48:32 +0000"
@@ -539,6 +545,7 @@
       "wetland": "2021-04-30 17:31:28 +0000",
       "wooded_scrubland": "2021-04-26 10:01:00 +0000",
       "tundra_bog": "2021-04-26 09:57:53 +0000",
+      "crystalline_chasm": "2021-05-03 13:17:52 +0000",
       "orchard": "2021-04-17 11:15:30 +0000",
       "lavender_forest": "2021-04-23 13:47:42 +0000",
       "dryland": "2021-04-26 10:01:07 +0000",
@@ -559,7 +566,8 @@
       "prairie": "2021-04-26 09:45:38 +0000",
       "tundra": "2021-04-26 09:57:30 +0000",
       "grove": "2021-04-23 13:34:01 +0000",
-      "gravel_beach": "2021-04-23 14:54:31 +0000"
+      "gravel_beach": "2021-04-23 14:54:31 +0000",
+      "undergrowth": "2021-05-03 13:23:57 +0000"
     },
     "done": false
   },
@@ -718,6 +726,7 @@
       "minecraft:creeper": "2021-04-16 12:09:10 +0000",
       "minecraft:slime": "2021-04-30 15:09:48 +0000",
       "minecraft:phantom": "2021-05-01 16:30:51 +0000",
+      "minecraft:zombified_piglin": "2021-05-03 13:12:54 +0000",
       "minecraft:witch": "2021-04-29 08:51:33 +0000",
       "minecraft:wither_skeleton": "2021-05-02 15:24:57 +0000",
       "minecraft:cave_spider": "2021-04-26 10:23:12 +0000",
@@ -1152,6 +1161,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-04-14 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-05-03 13:03:42 +0000"
     },
     "done": true
   },
@@ -2465,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-05-03 13:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-04-16 09:13:58 +0000"
@@ -2510,6 +2531,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-04-14 15:31:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/nether_crystal_block": {
+    "criteria": {
+      "has_nether_crystal": "2021-05-03 13:18:07 +0000"
     },
     "done": true
   },
@@ -3152,6 +3179,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-04-14 14:29:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2021-05-03 13:24:17 +0000"
     },
     "done": true
   },
