@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-04-30 14:01:41 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2021-05-04 07:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-30 15:51:01 +0000"
@@ -501,6 +513,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2021-05-01 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
     },
     "done": true
   },
@@ -752,6 +770,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2021-04-30 12:28:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
     },
     "done": true
   },
@@ -1546,6 +1570,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-05-01 07:05:37 +0000"
@@ -1573,6 +1603,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-30 15:48:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
     },
     "done": true
   },
@@ -1723,6 +1759,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2021-05-02 12:44:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2021-05-04 07:23:31 +0000"
     },
     "done": true
   },
@@ -2068,6 +2110,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-30 15:51:01 +0000"
@@ -2167,6 +2215,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-02 17:53:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
     },
     "done": true
   },
@@ -2503,6 +2557,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-05-04 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-04 07:37:11 +0000"
     },
     "done": true
   },
