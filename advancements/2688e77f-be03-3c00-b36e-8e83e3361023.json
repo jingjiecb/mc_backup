@@ -765,6 +765,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-05-06 15:37:41 +0000",
       "minecraft:skeleton": "2021-04-30 17:22:43 +0000",
       "minecraft:ghast": "2021-05-04 11:45:18 +0000",
       "minecraft:spider": "2021-05-03 14:56:34 +0000",
