@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-05-07 08:03:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-04-30 12:35:42 +0000"
@@ -1195,6 +1201,8 @@
       "minecraft:cold_ocean": "2021-04-30 13:22:42 +0000",
       "minecraft:forest": "2021-04-30 12:40:42 +0000",
       "minecraft:mountains": "2021-04-30 12:46:03 +0000",
+      "minecraft:taiga": "2021-05-07 08:05:26 +0000",
+      "minecraft:giant_tree_taiga": "2021-05-07 08:05:28 +0000",
       "minecraft:deep_cold_ocean": "2021-04-30 13:22:46 +0000",
       "minecraft:desert": "2021-04-30 13:07:28 +0000",
       "minecraft:birch_forest": "2021-04-30 13:10:31 +0000",
@@ -1211,6 +1219,7 @@
       "minecraft:wooded_mountains": "2021-04-30 12:54:19 +0000",
       "minecraft:wooded_hills": "2021-04-30 12:57:58 +0000",
       "minecraft:stone_shore": "2021-04-30 12:48:04 +0000",
+      "minecraft:giant_tree_taiga_hills": "2021-05-07 08:05:50 +0000",
       "minecraft:swamp": "2021-04-30 13:50:09 +0000",
       "minecraft:savanna": "2021-04-30 13:03:44 +0000",
       "minecraft:plains": "2021-04-30 12:16:53 +0000"
