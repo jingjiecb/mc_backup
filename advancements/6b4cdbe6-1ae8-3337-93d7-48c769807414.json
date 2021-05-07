@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2021-05-07 11:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2021-04-15 10:12:57 +0000"
@@ -414,7 +420,8 @@
       "shrubland_hills": "2021-04-30 13:11:02 +0000",
       "snowy_coniferous_forest": "2021-04-30 13:23:25 +0000",
       "grove": "2021-04-29 06:41:45 +0000",
-      "gravel_beach": "2021-04-30 13:38:43 +0000"
+      "gravel_beach": "2021-04-30 13:38:43 +0000",
+      "undergrowth": "2021-05-07 11:43:22 +0000"
     },
     "done": false
   },
@@ -566,6 +573,9 @@
     "criteria": {
       "minecraft:pillager": "2021-04-16 09:56:29 +0000",
       "minecraft:skeleton": "2021-04-15 15:29:47 +0000",
+      "minecraft:ghast": "2021-05-07 11:46:23 +0000",
+      "minecraft:hoglin": "2021-05-07 11:44:41 +0000",
+      "minecraft:magma_cube": "2021-05-07 11:45:22 +0000",
       "minecraft:spider": "2021-04-16 09:19:26 +0000",
       "minecraft:creeper": "2021-04-30 15:51:11 +0000",
       "minecraft:phantom": "2021-04-30 16:43:26 +0000",
@@ -703,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-05-07 11:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-04-14 16:03:19 +0000"
@@ -718,6 +734,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-04-29 06:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-05-07 11:44:49 +0000"
     },
     "done": true
   },
@@ -1012,6 +1034,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2021-04-14 16:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-05-07 11:44:49 +0000"
     },
     "done": true
   },
