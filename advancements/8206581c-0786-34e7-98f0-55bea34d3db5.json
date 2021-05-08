@@ -1274,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2021-05-08 05:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-30 15:51:01 +0000"
@@ -2235,6 +2241,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-05-04 15:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2021-05-08 05:50:05 +0000"
     },
     "done": true
   },
