@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-05-09 05:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-04-30 13:14:13 +0000"
@@ -737,6 +743,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-02 14:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-05-09 05:55:12 +0000"
     },
     "done": true
   },
@@ -3087,6 +3099,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-04-30 12:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-05-09 05:55:12 +0000"
     },
     "done": true
   },
