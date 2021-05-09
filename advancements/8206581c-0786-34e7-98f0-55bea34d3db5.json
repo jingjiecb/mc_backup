@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2021-05-09 08:16:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/mud_brick_from_smelting": {
     "criteria": {
       "has_mud_ball": "2021-04-30 13:53:35 +0000"
@@ -492,6 +498,7 @@
       "crystalline_chasm": "2021-05-06 08:33:24 +0000",
       "withered_abyss": "2021-05-06 08:53:50 +0000",
       "orchard": "2021-04-30 13:09:46 +0000",
+      "lavender_forest": "2021-05-09 08:57:38 +0000",
       "coniferous_forest": "2021-04-30 13:21:56 +0000",
       "dryland": "2021-04-30 13:10:08 +0000",
       "dry_boneyard": "2021-04-30 13:10:10 +0000",
@@ -672,6 +679,7 @@
       "minecraft:slime": "2021-05-02 06:45:23 +0000",
       "minecraft:phantom": "2021-05-01 14:52:56 +0000",
       "minecraft:wither_skeleton": "2021-05-06 08:40:26 +0000",
+      "minecraft:husk": "2021-05-09 08:52:29 +0000",
       "minecraft:cave_spider": "2021-05-01 06:54:38 +0000",
       "minecraft:enderman": "2021-05-03 13:42:18 +0000",
       "minecraft:zombie": "2021-04-30 13:29:00 +0000",
@@ -788,6 +796,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2021-05-09 08:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-05-01 07:05:37 +0000"
@@ -863,6 +877,12 @@
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2021-05-04 08:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-05-09 08:52:07 +0000"
     },
     "done": true
   },
@@ -1328,6 +1348,7 @@
       "minecraft:forest": "2021-04-30 12:40:42 +0000",
       "minecraft:mountains": "2021-04-30 12:46:03 +0000",
       "minecraft:taiga": "2021-05-07 08:05:26 +0000",
+      "minecraft:desert_hills": "2021-05-09 08:51:54 +0000",
       "minecraft:giant_tree_taiga": "2021-05-07 08:05:28 +0000",
       "minecraft:deep_cold_ocean": "2021-04-30 13:22:46 +0000",
       "minecraft:desert": "2021-04-30 13:07:28 +0000",
@@ -1694,6 +1715,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2021-05-02 12:44:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2021-05-09 08:58:04 +0000"
     },
     "done": true
   },
@@ -2502,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-05-09 08:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-05-01 06:07:03 +0000"
@@ -2817,6 +2850,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2021-05-02 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2021-05-09 08:58:06 +0000"
     },
     "done": true
   },
