@@ -744,6 +744,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-05-20 12:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-04-14 14:27:41 +0000"
@@ -1392,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-05-20 12:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-04-14 15:48:32 +0000"
@@ -1723,6 +1735,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-04-16 10:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-05-20 12:07:17 +0000"
     },
     "done": true
   },
@@ -2510,6 +2528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-05-20 12:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-04-14 16:22:26 +0000"
@@ -2543,6 +2567,12 @@
   "biomesoplenty:recipes/building_blocks/nether_crystal_block": {
     "criteria": {
       "has_nether_crystal": "2021-05-03 13:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-05-20 12:07:29 +0000"
     },
     "done": true
   },
