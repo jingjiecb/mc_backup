@@ -684,6 +684,7 @@
       "minecraft:cave_spider": "2021-04-26 11:53:51 +0000",
       "minecraft:enderman": "2021-05-20 14:25:23 +0000",
       "minecraft:silverfish": "2021-05-20 16:08:07 +0000",
+      "minecraft:endermite": "2021-05-20 17:17:52 +0000",
       "minecraft:zombie": "2021-04-15 10:14:47 +0000",
       "minecraft:drowned": "2021-04-30 10:13:01 +0000",
       "minecraft:zombie_villager": "2021-04-30 09:58:03 +0000"
@@ -1698,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-05-20 17:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2021-04-29 10:46:11 +0000"
@@ -2487,6 +2494,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-05-20 17:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-05-20 17:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-04-14 16:13:45 +0000"
@@ -2895,6 +2914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-05-20 17:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-04-15 10:12:57 +0000"
@@ -2946,6 +2971,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2021-05-20 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-05-20 17:06:06 +0000"
     },
     "done": true
   },
