@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2021-05-20 14:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-04-15 10:12:57 +0000"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-05-20 14:54:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-30 16:11:47 +0000"
@@ -421,12 +433,15 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "seasonal_pumpkin_patch": "2021-05-20 14:03:16 +0000",
       "shrubland": "2021-04-30 13:10:58 +0000",
       "scrubland": "2021-04-29 08:43:27 +0000",
       "bayou_mangrove": "2021-04-30 13:39:16 +0000",
+      "alps_foothills": "2021-05-20 14:03:46 +0000",
       "bamboo_blossom_grove": "2021-04-30 12:20:47 +0000",
       "redwood_forest_edge": "2021-04-30 13:09:36 +0000",
       "bayou": "2021-04-30 13:39:18 +0000",
+      "silkglade_nest": "2021-05-20 14:00:36 +0000",
       "lush_savanna": "2021-04-30 13:10:45 +0000",
       "highland": "2021-04-30 13:21:38 +0000",
       "jade_cliffs": "2021-04-30 16:52:06 +0000",
@@ -435,6 +450,7 @@
       "flower_meadow": "2021-04-30 13:37:44 +0000",
       "meadow_forest": "2021-04-30 13:23:47 +0000",
       "wooded_scrubland": "2021-04-29 08:43:24 +0000",
+      "tundra_bog": "2021-05-20 14:03:27 +0000",
       "withered_abyss": "2021-05-20 13:32:29 +0000",
       "orchard": "2021-04-30 13:09:46 +0000",
       "snowy_maple_forest": "2021-05-20 13:20:55 +0000",
@@ -442,18 +458,23 @@
       "redwood_hills": "2021-05-20 12:59:59 +0000",
       "alps": "2021-05-20 13:18:21 +0000",
       "dryland": "2021-04-26 11:31:32 +0000",
+      "silkglade": "2021-05-20 14:00:39 +0000",
       "dry_boneyard": "2021-04-26 11:55:21 +0000",
       "lush_desert": "2021-04-29 11:27:07 +0000",
       "redwood_forest": "2021-04-30 13:09:26 +0000",
       "coniferous_lakes": "2021-04-30 13:21:53 +0000",
       "cherry_blossom_grove": "2021-04-30 13:20:44 +0000",
+      "seasonal_orchard": "2021-05-20 14:03:17 +0000",
       "highland_moor": "2021-04-30 13:21:36 +0000",
+      "seasonal_forest": "2021-05-20 14:03:20 +0000",
       "grove_lakes": "2021-04-29 08:43:17 +0000",
       "highland_crag": "2021-04-30 13:21:44 +0000",
       "meadow": "2021-04-30 13:23:29 +0000",
       "lavender_field": "2021-04-29 06:41:30 +0000",
       "shrubland_hills": "2021-04-30 13:11:02 +0000",
+      "fir_clearing": "2021-05-20 14:03:18 +0000",
       "snowy_coniferous_forest": "2021-04-30 13:23:25 +0000",
+      "tundra": "2021-05-20 14:03:28 +0000",
       "grove": "2021-04-29 06:41:45 +0000",
       "gravel_beach": "2021-04-30 13:38:43 +0000",
       "undergrowth": "2021-05-07 11:43:22 +0000"
@@ -505,6 +526,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-04-16 09:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2021-05-20 14:29:06 +0000"
     },
     "done": true
   },
@@ -617,12 +644,14 @@
       "minecraft:skeleton": "2021-04-15 15:29:47 +0000",
       "minecraft:ghast": "2021-05-07 11:46:23 +0000",
       "minecraft:hoglin": "2021-05-07 11:44:41 +0000",
+      "minecraft:vindicator": "2021-05-20 14:58:05 +0000",
       "minecraft:magma_cube": "2021-05-07 11:45:22 +0000",
       "minecraft:spider": "2021-04-16 09:19:26 +0000",
       "minecraft:creeper": "2021-04-30 15:51:11 +0000",
       "minecraft:phantom": "2021-04-30 16:43:26 +0000",
       "minecraft:husk": "2021-04-29 10:43:52 +0000",
       "minecraft:cave_spider": "2021-04-26 11:53:51 +0000",
+      "minecraft:enderman": "2021-05-20 14:25:23 +0000",
       "minecraft:zombie": "2021-04-15 10:14:47 +0000",
       "minecraft:drowned": "2021-04-30 10:13:01 +0000",
       "minecraft:zombie_villager": "2021-04-30 09:58:03 +0000"
@@ -851,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-05-20 14:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2021-04-15 10:12:57 +0000"
@@ -968,6 +1003,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2021-04-16 16:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-05-20 14:54:22 +0000"
     },
     "done": true
   },
@@ -1184,13 +1225,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-04-16 17:13:17 +0000",
+      "minecraft:snowy_mountains": "2021-05-20 14:41:42 +0000",
       "minecraft:forest": "2021-04-14 15:52:06 +0000",
       "minecraft:mountains": "2021-04-30 06:28:11 +0000",
+      "minecraft:taiga": "2021-05-20 14:02:36 +0000",
       "minecraft:desert_hills": "2021-04-29 06:42:14 +0000",
       "minecraft:deep_cold_ocean": "2021-04-16 17:14:08 +0000",
       "minecraft:snowy_tundra": "2021-05-20 13:21:26 +0000",
       "minecraft:desert": "2021-04-29 06:41:52 +0000",
       "minecraft:frozen_river": "2021-05-20 13:21:25 +0000",
+      "minecraft:deep_frozen_ocean": "2021-05-20 14:04:32 +0000",
       "minecraft:jungle": "2021-04-30 06:28:20 +0000",
       "minecraft:birch_forest": "2021-04-16 17:21:03 +0000",
       "minecraft:snowy_beach": "2021-04-30 13:23:08 +0000",
@@ -1207,6 +1251,7 @@
       "minecraft:wooded_hills": "2021-04-14 16:19:13 +0000",
       "minecraft:stone_shore": "2021-04-30 06:28:29 +0000",
       "minecraft:swamp": "2021-04-16 17:18:26 +0000",
+      "minecraft:snowy_taiga_hills": "2021-05-20 14:36:47 +0000",
       "minecraft:savanna": "2021-04-29 08:42:57 +0000",
       "minecraft:plains": "2021-04-14 15:52:55 +0000"
     },
@@ -1465,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-05-20 14:54:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2021-04-14 16:05:58 +0000"
@@ -1675,6 +1726,7 @@
       "apple": "2021-04-16 10:08:12 +0000",
       "cooked_cod": "2021-04-16 10:10:06 +0000",
       "bread": "2021-04-15 15:03:00 +0000",
+      "golden_apple": "2021-05-20 14:57:00 +0000",
       "rotten_flesh": "2021-04-16 10:08:26 +0000",
       "cooked_chicken": "2021-04-15 15:02:51 +0000",
       "carrot": "2021-04-16 10:01:59 +0000"
@@ -2211,6 +2263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-05-20 14:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-04-14 16:05:58 +0000"
@@ -2577,6 +2635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2021-05-20 14:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-05-20 13:33:38 +0000"
@@ -2676,6 +2740,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-04-16 08:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-05-20 14:44:44 +0000"
     },
     "done": true
   },
