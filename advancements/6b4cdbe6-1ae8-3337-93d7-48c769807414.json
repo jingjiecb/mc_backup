@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2021-05-21 15:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-04-14 15:58:34 +0000"
@@ -1362,6 +1368,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2021-05-21 15:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-04-15 15:02:17 +0000"
@@ -1407,6 +1419,12 @@
   "twilightforest:alt/entities/snow_queen": {
     "criteria": {
       "hurt_by_indirect": "2021-05-21 13:43:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2021-05-21 15:55:28 +0000"
     },
     "done": true
   },
@@ -1550,7 +1568,8 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2021-05-21 14:10:03 +0000"
+      "previous_progression": "2021-05-21 14:10:03 +0000",
+      "knight": "2021-05-21 15:11:22 +0000"
     },
     "done": false
   },
@@ -1730,6 +1749,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-04-16 09:20:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/phantom_armor_worn": {
+    "criteria": {
+      "helmet": "2021-05-21 15:27:40 +0000"
     },
     "done": true
   },
@@ -2788,6 +2813,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/knight_phantom": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-21 15:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-04-15 15:43:33 +0000"
@@ -2944,6 +2975,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/phantom_armor_set": {
+    "criteria": {
+      "helmet": "2021-05-21 15:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-04-16 10:23:12 +0000"
@@ -2959,6 +2996,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-04-14 15:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-05-21 15:21:47 +0000"
     },
     "done": true
   },

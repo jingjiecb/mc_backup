@@ -906,6 +906,12 @@
     },
     "done": false
   },
+  "twilightforest:alt/treasures/trophy_pedestal": {
+    "criteria": {
+      "trophy_pedestal": "2021-05-21 15:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-05-08 08:17:01 +0000"
@@ -1513,6 +1519,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2021-05-21 15:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-04-30 12:42:39 +0000"
@@ -1725,9 +1737,11 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2021-05-21 14:10:03 +0000"
+      "previous_progression": "2021-05-21 14:10:03 +0000",
+      "knight": "2021-05-21 15:26:37 +0000",
+      "trophy": "2021-05-21 15:12:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1935,6 +1949,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-30 15:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-05-21 15:11:45 +0000"
     },
     "done": true
   },
@@ -3210,6 +3230,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/knight_phantom": {
+    "criteria": {
+      "hurt": "2021-05-21 15:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-01 03:57:30 +0000"
@@ -3387,6 +3413,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2021-05-09 09:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/redcap_sapper": {
+    "criteria": {
+      "hurt": "2021-05-21 15:11:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/phantom_armor_set": {
+    "criteria": {
+      "chestplate": "2021-05-21 15:12:04 +0000"
     },
     "done": true
   },
@@ -3587,6 +3625,12 @@
       "has_golden_sword": "2021-05-01 06:01:55 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2021-05-21 15:26:37 +0000"
+    },
+    "done": false
   },
   "twilightforest:alt/treasures/yeti_armor_set": {
     "criteria": {
@@ -3894,6 +3938,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "chestplate": "2021-05-21 15:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-05-09 09:17:23 +0000"
@@ -4035,6 +4085,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2021-05-06 11:04:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "pickaxe": "2021-05-21 15:45:35 +0000"
     },
     "done": true
   },
@@ -4265,6 +4321,12 @@
     "criteria": {
       "kill_lich": "2021-05-21 12:59:29 +0000",
       "kill_naga": "2021-05-21 12:19:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill2": {
+    "criteria": {
+      "redcap_sapper": "2021-05-21 15:11:34 +0000"
     },
     "done": true
   },
