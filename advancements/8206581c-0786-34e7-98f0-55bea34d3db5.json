@@ -336,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2021-05-21 14:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-05-01 06:08:37 +0000"
@@ -465,6 +471,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-05-09 09:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/lifedrain_scepter": {
+    "criteria": {
+      "scepter": "2021-05-21 13:58:51 +0000"
     },
     "done": true
   },
@@ -680,9 +692,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2021-05-21 12:59:29 +0000"
+      "kill_lich": "2021-05-21 12:59:29 +0000",
+      "trophy_pedestal": "2021-05-21 14:10:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -1710,6 +1723,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2021-05-21 14:10:03 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2021-04-30 12:28:49 +0000"
@@ -2090,6 +2109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2021-05-21 14:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-05-02 17:33:14 +0000"
@@ -2126,21 +2151,27 @@
     },
     "done": true
   },
-  "twilightforest:alt/treasures/foods/maze_wafer": {
-    "criteria": {
-      "food": "2021-05-21 13:22:56 +0000"
-    },
-    "done": true
-  },
   "twilightforest:alt/treasures/trophies": {
     "criteria": {
       "1": "2021-05-21 12:19:38 +0000"
     },
     "done": true
   },
+  "twilightforest:alt/treasures/foods/maze_wafer": {
+    "criteria": {
+      "food": "2021-05-21 13:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-30 15:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2021-05-21 14:14:46 +0000"
     },
     "done": true
   },
@@ -2601,6 +2632,7 @@
       "dark_log": "2021-05-21 13:51:38 +0000",
       "dark_sapling": "2021-05-21 13:52:37 +0000",
       "twilight_oak_sapling": "2021-05-21 12:18:43 +0000",
+      "liveroots": "2021-05-21 14:23:15 +0000",
       "sort_stairs": "2021-05-21 12:21:01 +0000",
       "canopy_log": "2021-05-21 12:19:30 +0000",
       "canopy_sapling": "2021-05-21 12:18:17 +0000",
@@ -3100,15 +3132,15 @@
     },
     "done": true
   },
-  "twilightforest:alt/entities/mist_wolf": {
-    "criteria": {
-      "hurt_by_indirect": "2021-05-21 13:55:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2021-05-21 13:37:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/mist_wolf": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-21 13:55:23 +0000"
     },
     "done": true
   },
@@ -3574,6 +3606,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/helmet_crab": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-21 14:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2021-05-09 09:36:27 +0000"
@@ -3847,6 +3885,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2021-05-21 12:29:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "2": "2021-05-21 14:13:37 +0000"
     },
     "done": true
   },
@@ -4154,6 +4198,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-05-02 12:44:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/slime_beetle": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-21 14:13:37 +0000"
     },
     "done": true
   },
