@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2021-05-21 11:39:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-16 08:36:17 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/large_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-04-15 10:12:57 +0000"
@@ -377,9 +389,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/final_castle": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2021-04-14 16:05:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/dark_tower": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
     },
     "done": true
   },
@@ -843,6 +867,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2021-05-21 11:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-04-16 09:00:52 +0000"
@@ -864,6 +894,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2021-04-16 17:57:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/raven": {
+    "criteria": {
+      "hurt": "2021-05-21 11:40:38 +0000"
     },
     "done": true
   },
@@ -906,6 +942,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-04-29 06:43:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
     },
     "done": true
   },
@@ -972,6 +1014,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-04-30 16:11:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/undead": {
+    "criteria": {
+      "0": "2021-05-21 11:39:23 +0000"
     },
     "done": true
   },
@@ -1137,6 +1185,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/skeleton_druid": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-21 11:39:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2021-04-16 17:22:22 +0000"
@@ -1290,6 +1344,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-04-16 08:41:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "2": "2021-05-21 11:33:21 +0000"
     },
     "done": true
   },
@@ -1689,6 +1749,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/mushroom_tower": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-04-14 16:09:04 +0000"
@@ -1984,6 +2056,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2021-05-21 11:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-04-16 09:06:25 +0000"
@@ -2011,6 +2089,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2021-05-20 13:46:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/troll_lairs": {
+    "criteria": {
+      "discover": "2021-05-21 11:36:41 +0000"
     },
     "done": true
   },
@@ -2133,6 +2217,12 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-05-02 15:04:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "3": "2021-05-21 11:40:38 +0000"
     },
     "done": true
   },
@@ -2352,6 +2442,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/small_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-04-16 08:41:00 +0000"
@@ -2529,6 +2625,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-04-16 10:23:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/ice_tower": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
     },
     "done": true
   },
@@ -2778,6 +2880,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2021-04-29 11:41:39 +0000"
@@ -2886,6 +2994,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/medium_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_the_recipe": "2021-04-15 10:12:37 +0000"
@@ -2955,6 +3075,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2021-05-20 14:44:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2021-05-21 11:37:06 +0000"
     },
     "done": true
   },
@@ -3042,6 +3168,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/quest_grove": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-04-14 15:57:11 +0000"
@@ -3117,6 +3249,12 @@
       "textures/entity/cat/red.png": "2021-04-30 13:19:08 +0000"
     },
     "done": false
+  },
+  "twilightforest:alt/major_landmarks/hydra_lair": {
+    "criteria": {
+      "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
