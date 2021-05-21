@@ -905,6 +905,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/bighorn_sheep": {
+    "criteria": {
+      "hurt": "2021-05-21 16:03:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2021-04-16 09:57:04 +0000"
@@ -2332,7 +2338,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2021-05-21 16:01:59 +0000",
       "twilight_oak_log": "2021-05-21 12:19:24 +0000",
+      "twilight_oak_wood": "2021-05-21 16:01:43 +0000",
       "twilight_oak_sapling": "2021-05-21 12:19:17 +0000",
       "twilight_oak_stairs": "2021-05-21 12:48:16 +0000",
       "sort_stairs": "2021-05-21 12:20:54 +0000",
@@ -3644,6 +3652,12 @@
   "twilightforest:alt/major_landmarks/quest_grove": {
     "criteria": {
       "discover": "2021-05-21 11:33:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2021-05-21 16:01:14 +0000"
     },
     "done": true
   },
