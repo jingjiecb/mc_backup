@@ -444,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-05-22 12:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-04-30 12:26:27 +0000"
@@ -3466,6 +3472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-05-22 12:41:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_planks": "2021-05-20 15:04:47 +0000"
@@ -4256,6 +4268,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-02 12:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-05-22 12:41:47 +0000"
     },
     "done": true
   },
