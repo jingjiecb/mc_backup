@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-05-22 13:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-04-14 14:31:09 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_red_flower": "2021-04-16 17:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-05-22 13:20:48 +0000"
     },
     "done": true
   },
@@ -341,6 +353,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/large_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-04-14 14:49:22 +0000"
@@ -467,9 +485,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/final_castle": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2021-04-14 16:08:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/dark_tower": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
     },
     "done": true
   },
@@ -548,6 +578,12 @@
   "biomesoplenty:recipes/misc/mud_brick_from_smelting": {
     "criteria": {
       "has_mud_ball": "2021-04-30 17:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2021-05-22 13:20:48 +0000"
     },
     "done": true
   },
@@ -921,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-05-22 13:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-04-28 10:56:08 +0000"
@@ -1047,6 +1089,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-04-14 15:14:38 +0000"
@@ -1137,15 +1185,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2021-05-20 16:30:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2021-05-20 16:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2021-05-20 16:30:20 +0000"
     },
     "done": true
   },
@@ -1455,6 +1503,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "2": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-04-23 12:59:14 +0000"
@@ -1759,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2021-05-22 13:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2021-04-16 15:30:28 +0000"
@@ -1974,6 +2034,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-04-15 10:52:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/mushroom_tower": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
     },
     "done": true
   },
@@ -2329,6 +2401,16 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2021-05-22 13:21:48 +0000",
+      "twilight_oak_log": "2021-05-22 13:21:29 +0000",
+      "twilight_oak_sapling": "2021-05-22 13:21:31 +0000",
+      "canopy_planks": "2021-05-22 13:21:51 +0000",
+      "canopy_log": "2021-05-22 13:21:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2021-04-14 15:31:44 +0000"
@@ -2356,6 +2438,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-20 16:28:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/troll_lairs": {
+    "criteria": {
+      "discover": "2021-05-22 13:17:02 +0000"
     },
     "done": true
   },
@@ -2755,6 +2843,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/small_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2021-04-30 13:54:36 +0000"
@@ -2968,6 +3062,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-04-14 16:37:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/ice_tower": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
     },
     "done": true
   },
@@ -3277,9 +3377,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-05-22 13:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-20 16:28:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
     },
     "done": true
   },
@@ -3403,6 +3515,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/medium_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-04-14 14:42:26 +0000"
@@ -3496,6 +3620,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2021-04-15 15:45:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2021-05-22 13:17:46 +0000"
     },
     "done": true
   },
@@ -3601,6 +3731,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/quest_grove": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-04-23 12:59:14 +0000"
@@ -3670,6 +3806,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-04-14 15:48:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hydra_lair": {
+    "criteria": {
+      "discover": "2021-05-22 13:12:38 +0000"
     },
     "done": true
   },
