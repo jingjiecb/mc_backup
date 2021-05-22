@@ -1345,6 +1345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-05-22 09:06:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/foods/vension": {
     "criteria": {
       "raw": "2021-05-21 13:01:55 +0000"
