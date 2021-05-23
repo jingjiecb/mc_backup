@@ -1876,6 +1876,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/wraith": {
+    "criteria": {
+      "hurt": "2021-05-23 09:24:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2021-05-01 08:15:05 +0000"
@@ -3456,6 +3462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-05-23 09:39:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2021-04-30 12:41:12 +0000"
@@ -4466,6 +4478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-05-23 09:39:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-01 03:57:30 +0000"
@@ -4830,6 +4848,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-05-04 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill3": {
+    "criteria": {
+      "wraith": "2021-05-23 09:24:50 +0000"
     },
     "done": true
   },
