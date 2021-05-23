@@ -1786,6 +1786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-05-23 14:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2021-05-02 12:44:43 +0000"
@@ -4267,6 +4273,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/bunny": {
+    "criteria": {
+      "slay": "2021-05-23 14:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-05-20 15:13:26 +0000"
@@ -4565,6 +4577,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2021-05-02 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/wild_boar": {
+    "criteria": {
+      "slay": "2021-05-23 14:08:37 +0000"
     },
     "done": true
   },
