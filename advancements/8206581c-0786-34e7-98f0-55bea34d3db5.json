@@ -867,6 +867,12 @@
     },
     "done": false
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-05-23 06:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-04-30 12:46:21 +0000"
@@ -1423,6 +1429,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2021-05-04 15:26:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/ice_crystal": {
+    "criteria": {
+      "slay": "2021-05-23 07:41:43 +0000"
     },
     "done": true
   },
@@ -2020,6 +2032,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/ice_bow": {
+    "criteria": {
+      "bow": "2021-05-23 07:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2021-05-03 05:52:51 +0000"
@@ -2433,6 +2451,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2021-05-03 10:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-05-23 07:05:21 +0000"
     },
     "done": true
   },
@@ -3519,6 +3543,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-05-01 07:41:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/phantom_armor_worn": {
+    "criteria": {
+      "helmet": "2021-05-23 07:24:57 +0000"
     },
     "done": true
   },
