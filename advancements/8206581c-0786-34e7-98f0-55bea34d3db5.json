@@ -1979,6 +1979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2021-05-27 15:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-05-02 12:44:43 +0000"
@@ -3855,6 +3861,12 @@
   "twilightforest:alt/treasures/phantom_armor_worn": {
     "criteria": {
       "helmet": "2021-05-23 07:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2021-05-27 15:39:12 +0000"
     },
     "done": true
   },
