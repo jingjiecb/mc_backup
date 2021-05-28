@@ -576,6 +576,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/troll": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-28 05:50:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/raven": {
     "criteria": {
       "hurt": "2021-05-21 16:14:30 +0000"
@@ -615,6 +621,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-04-30 12:41:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/hydra_chop": {
+    "criteria": {
+      "food": "2021-05-28 05:34:07 +0000"
     },
     "done": true
   },
@@ -672,6 +684,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/thornlands": {
+    "criteria": {
+      "discover": "2021-05-28 05:39:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2021-05-01 06:32:46 +0000"
@@ -705,6 +723,13 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-05-03 10:27:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2021-05-28 05:34:00 +0000",
+      "lamp": "2021-05-28 05:51:49 +0000"
     },
     "done": true
   },
@@ -756,6 +781,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/giant_miner": {
+    "criteria": {
+      "hurt": "2021-05-28 05:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-04-30 12:26:27 +0000"
@@ -794,10 +825,11 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2021-05-28 05:34:00 +0000",
       "snow_queen": "2021-05-21 13:44:05 +0000",
       "ur_ghast": "2021-05-21 17:05:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
@@ -895,6 +927,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/magic_beans": {
+    "criteria": {
+      "beans": "2021-05-28 05:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-05-01 06:58:51 +0000"
@@ -947,9 +985,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2021-05-28 05:21:33 +0000",
       "kill_lich": "2021-05-21 12:59:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/brew_potion": {
     "criteria": {
@@ -984,6 +1023,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2021-04-30 13:30:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/mazebreaker_pickaxe": {
+    "criteria": {
+      "mazebreaker_pickaxe": "2021-05-28 05:13:57 +0000"
     },
     "done": true
   },
@@ -1303,6 +1348,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/maze_slime": {
+    "criteria": {
+      "hurt": "2021-05-28 05:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2021-05-20 16:49:18 +0000"
@@ -1318,6 +1369,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2021-05-02 17:55:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/giants": {
+    "criteria": {
+      "1": "2021-05-28 05:48:33 +0000"
     },
     "done": true
   },
@@ -1541,6 +1598,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "hydra": "2021-05-28 05:34:00 +0000",
+      "stroganoff": "2021-05-28 05:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-04-30 12:41:12 +0000"
@@ -1721,6 +1785,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_thorns": {
+    "criteria": {
+      "previous_progression": "2021-05-28 05:51:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2021-05-08 06:02:51 +0000"
@@ -1868,6 +1938,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2021-05-02 06:45:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/minotaur": {
+    "criteria": {
+      "hurt": "2021-05-28 05:03:22 +0000"
     },
     "done": true
   },
@@ -2243,6 +2319,13 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2021-05-28 05:21:33 +0000",
+      "maze_wafer": "2021-05-28 05:20:43 +0000"
+    },
+    "done": false
+  },
   "twilightforest:alt/major_landmarks/medium_hollow_hill": {
     "criteria": {
       "discover": "2021-05-21 11:11:02 +0000"
@@ -2300,6 +2383,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2021-05-20 15:14:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/armored_giant": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-28 05:48:33 +0000"
     },
     "done": true
   },
@@ -2529,6 +2618,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2021-05-20 17:34:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hydra": {
+    "criteria": {
+      "hurt": "2021-05-28 05:24:53 +0000"
     },
     "done": true
   },
@@ -3293,6 +3388,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/foods/meef": {
+    "criteria": {
+      "raw": "2021-05-28 05:03:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2021-05-09 09:25:38 +0000"
@@ -3359,6 +3460,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/minoshroom": {
+    "criteria": {
+      "hurt_by_indirect": "2021-05-28 05:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-05-01 06:58:51 +0000"
@@ -3389,6 +3496,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/minotaur_axe_diamond": {
+    "criteria": {
+      "axe": "2021-05-28 05:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-05-04 04:32:23 +0000"
@@ -3416,6 +3529,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2021-04-30 12:26:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axes": {
+    "criteria": {
+      "diamond": "2021-05-28 05:15:35 +0000"
     },
     "done": true
   },
@@ -4086,6 +4205,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/magic_beanstalk": {
+    "criteria": {
+      "beans": "2021-05-28 05:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2021-05-02 17:55:37 +0000"
@@ -4573,6 +4698,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/giant_tool_set": {
+    "criteria": {
+      "pickaxe": "2021-05-28 05:48:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/ghasts": {
     "criteria": {
       "0": "2021-05-21 16:22:26 +0000"
@@ -4838,6 +4969,12 @@
     },
     "done": true
   },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2021-05-28 05:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2021-05-22 14:27:55 +0000"
@@ -4949,6 +5086,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2021-05-26 08:32:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/giant_blocks": {
+    "criteria": {
+      "giant_obsidian": "2021-05-28 05:50:42 +0000"
     },
     "done": true
   },
@@ -5075,6 +5218,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-05-21 16:42:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/maze_map": {
+    "criteria": {
+      "maze_map_focus": "2021-05-28 05:03:41 +0000"
     },
     "done": true
   },
