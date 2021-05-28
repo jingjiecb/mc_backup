@@ -546,6 +546,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/harbinger_cube": {
+    "criteria": {
+      "hurt": "2021-05-28 06:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2021-05-08 08:17:01 +0000"
@@ -621,6 +627,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-04-30 12:41:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/adherent": {
+    "criteria": {
+      "hurt": "2021-05-28 06:02:46 +0000"
     },
     "done": true
   },
@@ -1530,7 +1542,9 @@
       "twilight_oak_sapling": "2021-05-21 12:18:43 +0000",
       "liveroots": "2021-05-21 14:23:15 +0000",
       "tower_wood": "2021-05-21 16:23:33 +0000",
+      "giant_leaves": "2021-05-28 06:19:59 +0000",
       "sort_stairs": "2021-05-21 12:21:01 +0000",
+      "giant_log": "2021-05-28 06:20:34 +0000",
       "canopy_log": "2021-05-21 12:19:30 +0000",
       "canopy_sapling": "2021-05-21 12:18:17 +0000",
       "root": "2021-05-22 15:20:10 +0000",
@@ -1787,9 +1801,10 @@
   },
   "twilightforest:progress_thorns": {
     "criteria": {
+      "discover": "2021-05-28 06:00:16 +0000",
       "previous_progression": "2021-05-28 05:51:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
@@ -4485,6 +4500,13 @@
   "twilightforest:alt/entities/snow_guardian": {
     "criteria": {
       "hurt_by_indirect": "2021-05-21 13:16:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_castle": {
+    "criteria": {
+      "discover": "2021-05-28 06:00:16 +0000",
+      "previous_progression": "2021-05-28 06:00:16 +0000"
     },
     "done": true
   },
