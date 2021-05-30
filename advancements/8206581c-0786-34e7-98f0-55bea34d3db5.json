@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-05-30 14:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-05-02 12:44:30 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-05-09 09:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-05-30 14:10:11 +0000"
     },
     "done": true
   },
@@ -359,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2021-05-30 14:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-05-20 15:13:26 +0000"
@@ -471,6 +489,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-02 12:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-05-30 13:59:56 +0000"
     },
     "done": true
   },
@@ -1149,6 +1173,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-05-03 10:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2021-05-30 14:07:49 +0000"
     },
     "done": true
   },
@@ -2286,6 +2316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-05-30 14:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-26 12:59:15 +0000"
@@ -2367,6 +2403,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-05-01 08:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-05-30 14:07:40 +0000"
     },
     "done": true
   },
@@ -2699,6 +2741,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2021-05-21 12:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-05-30 14:07:49 +0000"
     },
     "done": true
   },
@@ -3205,6 +3253,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2021-05-30 13:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-04-30 12:50:18 +0000"
@@ -3276,6 +3330,7 @@
       "minecraft:witch": "2021-05-09 09:45:28 +0000",
       "minecraft:wither_skeleton": "2021-05-06 08:40:26 +0000",
       "minecraft:husk": "2021-05-09 08:52:29 +0000",
+      "minecraft:ender_dragon": "2021-05-30 13:59:56 +0000",
       "minecraft:shulker": "2021-05-23 06:49:24 +0000",
       "minecraft:cave_spider": "2021-05-01 06:54:38 +0000",
       "minecraft:piglin": "2021-05-26 08:05:53 +0000",
@@ -3394,6 +3449,12 @@
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2021-05-21 17:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-05-30 14:07:49 +0000"
     },
     "done": true
   },
@@ -4401,6 +4462,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2021-05-30 14:10:27 +0000",
       "potato": "2021-05-01 06:58:12 +0000",
       "bread": "2021-04-30 12:39:36 +0000"
     },
