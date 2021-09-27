@@ -2117,6 +2117,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2021-09-27 03:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2021-04-16 14:55:33 +0000"
